@@ -158,7 +158,7 @@ public class BinarySearchTree<T extends Comparable<T>> {
 	public void inOrderStack() {
 		Stack<BSTNode<T>> in = new Stack<BSTNode<T>>();
 		
-		
+		while ()
 	}
 	
 	//Traverse the tree in an postorder fashion
